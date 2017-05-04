@@ -35,6 +35,26 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/data\/data.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/data\/data.html",
+		"oF": 0
+		},
+	"\/data\/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/docs\/data\/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/data\/data.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/data\/data.txt",
+		"oF": 0
+		},
 	"\/docs": {
 		"ft": 65536,
 		"oA": 1,
@@ -92,6 +112,106 @@
 		"oA": 1,
 		"oAP": "\/docs\/html\/scripts.html",
 		"oF": 0
+		},
+	"\/img\/avatars\/33.jpg": {
+		"ft": 16384,
+		"iS": 5160,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/33.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/36.jpg": {
+		"ft": 16384,
+		"iS": 4743,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/36.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/41.jpg": {
+		"ft": 16384,
+		"iS": 6049,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/41.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/45.jpg": {
+		"ft": 16384,
+		"iS": 4515,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/45.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/51.jpg": {
+		"ft": 16384,
+		"iS": 3767,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/51.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/60.jpg": {
+		"ft": 16384,
+		"iS": 4563,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/60.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/72.jpg": {
+		"ft": 16384,
+		"iS": 5216,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/72.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/77.jpg": {
+		"ft": 16384,
+		"iS": 4082,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/77.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/81.jpg": {
+		"ft": 16384,
+		"iS": 23707,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/81.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/avatars\/98.jpg": {
+		"ft": 16384,
+		"iS": 5084,
+		"oA": 0,
+		"oAP": "\/docs\/img\/avatars\/98.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -206,9 +326,18 @@
 		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
+	"\/js\/airtable.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/docs\/js\/airtable.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/js\/jquery.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
@@ -217,7 +346,7 @@
 		},
 	"\/js\/scripts.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 0,
 		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
@@ -226,7 +355,7 @@
 		},
 	"\/js\/semantic.js": {
 		"ft": 64,
-		"mi": 1,
+		"mi": 0,
 		"oA": 1,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
@@ -243,7 +372,7 @@
 	"displayValue": "ajax",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515629192
+	"lastBuiltDate": 515630585
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2017,7 +2146,7 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"minifyOutput": 1,
+		"minifyOutput": 0,
 		"syntaxCheckerStyle": 0,
 		"transpilerStyle": 0
 		},
